@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Swaraj Gaikwad - Backend Developer and Open-Source Contributor. Building reliable APIs, real-time systems, and backend infrastructure. Nashik, Maharashtra, India." />
+<img src="./hero.svg" width="100%" alt="Swaraj Gaikwad - Backend Developer and Open-Source Contributor. Building reliable APIs, real-time systems, and backend infrastructure. Nashik, Maharashtra, India." />
 
 <br/>
 
