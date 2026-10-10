@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./hero.svg" width="100%" alt="Swaraj Gaikwad - Backend Developer and Open-Source Contributor. Nashik, India." />
+<img src="./hero (4).svg" width="100%" alt="Swaraj Gaikwad - Backend Developer and Open-Source Contributor. Nashik, India." />
 
 <br/>
 
