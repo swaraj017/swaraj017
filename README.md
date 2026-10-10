@@ -11,14 +11,20 @@
 </div>
 
 ---
-
 ## Tech Stack
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="50%">
+
 **LANGUAGES**
 
 <img src="https://skillicons.dev/icons?i=js,cpp,postgres&theme=dark" alt="JavaScript, C++, SQL" />
+
+</td>
+<td align="center" width="50%">
 
 **BACKEND & REAL-TIME**
 
@@ -30,9 +36,17 @@
 <img src="https://img.shields.io/badge/JWT-6D28D9?style=flat-square" alt="JWT" />
 <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square" alt="Mongoose" />
 
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
 **INFRASTRUCTURE & TOOLS**
 
 <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux&theme=dark" alt="Docker, Git, GitHub, GitHub Actions, Linux" />
+
+</td>
+<td align="center" width="50%">
 
 **CLOUD & INTEGRATIONS**
 
@@ -41,13 +55,22 @@
 <img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white" alt="Razorpay" />
 <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary" />
 
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
 **ENGINEERING FUNDAMENTALS**
 
-<img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-4C1D95?style=flat-square" alt="Data Structures and Algorithms" />
+<img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-4C1D95?style=flat-square" alt="Data Structures and Algorithms" />
 <img src="https://img.shields.io/badge/OOP-1E3A8A?style=flat-square" alt="OOP" />
 <img src="https://img.shields.io/badge/MVC-155E75?style=flat-square" alt="MVC" />
 <img src="https://img.shields.io/badge/API_Design-065F46?style=flat-square" alt="API Design" />
 <img src="https://img.shields.io/badge/Authentication-991B1B?style=flat-square" alt="Authentication" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -55,6 +78,6 @@
 
 <div align="center">
 
-<i>Now see what I build, what I contribute, and what I'm learning ↓</i>
+**<i>Now see what I build, what I contribute, and what I'm learning ↓</i>**
 
 </div>
